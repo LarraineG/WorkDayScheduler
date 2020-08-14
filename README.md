@@ -1,6 +1,6 @@
 # WorkDayScheduler-HW-05
 
-Day planner built made by utilizing jQuery and the [MomentLibrary]https://momentjs.com/ which uses localStorage to reference the database
+Day planner built made by utilizing jQuery and the [MomentLibrary](https://momentjs.com/) which uses localStorage to reference the database
 
 ## screenshots
 Sample snapshot
