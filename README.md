@@ -4,7 +4,7 @@ Day planner built made by utilizing jQuery and the [MomentLibrary]https://moment
 
 ## screenshots
 Sample snapshot
-![image]![DayPlanner](https://user-images.githubusercontent.com/68169895/90209708-b55de180-ddb1-11ea-9632-b9ff98a71f4a.png)
+[DayPlanner](https://user-images.githubusercontent.com/68169895/90209708-b55de180-ddb1-11ea-9632-b9ff98a71f4a.png)
 
 
 ## links
