@@ -4,8 +4,7 @@ Day planner built made by utilizing jQuery and the [MomentLibrary](https://momen
 
 ## screenshots
 Sample snapshot
-[DayPlanner](https://user-images.githubusercontent.com/68169895/90209708-b55de180-ddb1-11ea-9632-b9ff98a71f4a.png)
-
+![alt text](https://user-images.githubusercontent.com/68169895/90210352-58632b00-ddb3-11ea-8b02-2e166f1c3d5d.png)
 
 ## links
 Day Planner [Here](https://larraineg.github.io/WorkDayScheduler-HW-05/)
