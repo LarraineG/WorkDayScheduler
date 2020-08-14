@@ -8,7 +8,7 @@ Sample snapshot
 
 
 ## links
-Day Planner [Here] https://larraineg.github.io/WorkDayScheduler-HW-05/
+Day Planner [Here](https://larraineg.github.io/WorkDayScheduler-HW-05/)
 
 ## How to use
 This is a simple day planner that helps organizer your day to day. It is powered with moment.js which track current time and date. Running with that time tracking it also color code the past, present and future time blocks. The localStorage saving feature helps you by saving your plans of your day even if you refresh or time has passed. Check out this planner to help you organize and strategize your day. 
